@@ -1,0 +1,6 @@
+/env
+/faiss
+/__pychache__
+
+*.csv
+
