@@ -1,7 +1,0 @@
-/node_modules
-/env
-/.ipynb_checkpoints
-/__pycache__
-/Medicine.csv
-/faiss
-.csv
