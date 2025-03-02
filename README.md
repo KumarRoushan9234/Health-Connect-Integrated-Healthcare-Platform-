@@ -130,6 +130,6 @@ python app.py
 Open http://localhost:3000 in your browser.
 
 ## **Future Enhancements**
-🔹 Integrate GPT-powered Medical Chat Assistant 🤖
-🔹 Enhance AI-driven personalized health coaching 🏋️
-🔹 Improve real-time sentiment analysis for mental health chatbot 🧠
+- **🔹 Integrate GPT-powered Medical Chat Assistant 🤖**
+- **🔹 Enhance AI-driven personalized health coaching 🏋️**
+- **🔹 Improve real-time sentiment analysis for mental health chatbot 🧠**
