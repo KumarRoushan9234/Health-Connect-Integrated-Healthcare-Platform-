@@ -4,7 +4,7 @@
 
 ![MedicoMate Banner](assets/images/Screenshot%202025-03-02%20165806.png)
 
-## **🚀 Overview**
+## **Overview**
 
 MedicoMate is an **AI-driven healthcare platform** offering:  
 ✅ **Real-time video consultations** with doctors 📞  
@@ -126,10 +126,10 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Access the App
+## **Access the App**
 Open http://localhost:3000 in your browser.
 
-Future Enhancements
+## **Future Enhancements**
 🔹 Integrate GPT-powered Medical Chat Assistant 🤖
 🔹 Enhance AI-driven personalized health coaching 🏋️
 🔹 Improve real-time sentiment analysis for mental health chatbot 🧠
